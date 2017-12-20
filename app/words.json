@@ -1,0 +1,16 @@
+{
+    "words":{ 
+        "word1":[
+            {
+                "english":"english",
+                "french": "french"
+            }
+        ],
+        "word2": [
+            {
+                "english":"english",
+                "french": "french"
+            }
+        ]
+    }
+}

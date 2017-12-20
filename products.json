@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "code": "OC-2003",            
+      "designation": "Collier cervical",
+      "description": "Supporte les chevilles faibles et les ligaments.\n Permet de soulager la douleur de la cheville et élimine l'œdème.",
+      "size": ["STD", "XXXL"],
+      "price": "86",            
+      "img": "https://firebasestorage.googleapis.com/v0/b/catalogi-3fa90.appspot.com/o/images%2Fimmo-epaule.jpg?alt=media&token=2053a058-9a44-4c29-809d-687e2203cae6"
+    },
+    {
+      "code": "OC-2005",
+      "designation": "Plieur de cheville",
+      "description": "Supporte les chevilles faibles et les ligaments.\n Permet de soulager la douleur de la cheville et élimine l'œdème.",
+      "size": [
+        "STD",
+        "XXL",
+        "XXXL"
+      ],
+      "price": "45",
+      "img": "https://firebasestorage.googleapis.com/v0/b/catalogi-3fa90.appspot.com/o/images%2Fimmo-epaule.jpg?alt=media&token=2053a058-9a44-4c29-809d-687e2203cae6"
+    },
+    {
+      "code": "OC-2006",
+      "designation": "Ceinture sacro-lombaire",
+      "description": "Supporte les chevilles faibles et les ligaments.\n Permet de soulager la douleur de la cheville et élimine l'œdème.",
+      "size": [
+        "STD",
+        "S",
+        "XXL",
+        "XXXL"
+      ],
+      "price": "290",
+      "img": "https://firebasestorage.googleapis.com/v0/b/catalogi-3fa90.appspot.com/o/images%2Fimmo-epaule.jpg?alt=media&token=2053a058-9a44-4c29-809d-687e2203cae6"
+    },
+    {
+      "code": "OC-2008",
+      "designation": "Immobilisateur C4",
+      "description": "Supporte les chevilles faibles et les ligaments.\n Permet de soulager la douleur de la cheville et élimine l'œdème.",
+      "size": [
+        "STD",
+        "S",
+        "XXL",
+        "XXXL"
+      ],
+      "price": "173",
+      "img": "https://firebasestorage.googleapis.com/v0/b/catalogi-3fa90.appspot.com/o/images%2Fimmo-epaule.jpg?alt=media&token=2053a058-9a44-4c29-809d-687e2203cae6"
+    },
+    {
+      "code": "OC-2009",
+      "designation": "Philadelphia",
+      "description": "Supporte les chevilles faibles et les ligaments.\n Permet de soulager la douleur de la cheville et élimine l'œdème.",
+      "size": [
+        "STD",
+        "S",
+        "XXL",
+        "XXXL"
+      ],
+      "price": "239",
+      "img": "https://firebasestorage.googleapis.com/v0/b/catalogi-3fa90.appspot.com/o/images%2Fimmo-epaule.jpg?alt=media&token=2053a058-9a44-4c29-809d-687e2203cae6"
+    }
+  ]
+}
